@@ -16,9 +16,6 @@ Handyumsetzung mit zwei Analog (vertikal und horizontal) + Jumpbutton
 Farben auswählen und du kollidierst nur mit den Objekten der Farben die du ausgewählt hast
 Konfetti/Feuerwerk am Ende des Levels
 
-songman.theodor.woellmer@mni.thm.de
-pascal.rohe@m.thm.de
-
 
 
 
